@@ -18,10 +18,13 @@ Step 6:Display details give in MainActivity file.
 
 Step 7: Save and run the application.
 ## PROGRAM:
+```
+/*
 Program to create and design an android application simple calculator using Intent.
-### Developed by: SHIVAANI R
-### Registeration Number :212224220097
-
+Developed by:SHIVAANI R
+Registeration Number :212224220097
+*/
+```
 ## MainActivity.java:
 ```
 package com.example.calculator;
@@ -392,7 +395,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
-<img width="1920" height="1080" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/40ab9cab-3310-4826-8ce8-74f6e4495b53" />
+<img width="1919" height="1019" alt="Screenshot 2025-10-29 093129" src="https://github.com/user-attachments/assets/4d97e350-e0f9-4301-94fa-7987435f6c4e" />
+<img width="1919" height="1019" alt="Screenshot 2025-10-29 093646" src="https://github.com/user-attachments/assets/005d4e9e-5a9c-4c02-a7b7-7f0ea0e9d3dd" />
+
 
 ## RESULT
 Thus a Simple Android Application create a simple calculator using Android Studio is developed and executed successfully.
